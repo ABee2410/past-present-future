@@ -1,0 +1,74 @@
+body {
+  background-color:#afcfce;
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 8px;
+}
+
+
+
+section {
+clear: both;
+}
+
+h1 {
+color: #2a7595;
+font-family:  'David Libre', serif;
+border-style: dashed;
+border-width: 2px;
+border-color: #fac8e1;
+text-align: center;
+padding: 7px
+}
+
+h2 {
+  color: #358879;
+  font-family:  'David Libre', serif;
+
+}
+
+h3 {
+  color:#77937d;
+  font-family:  'David Libre', serif;
+
+}
+
+img {
+  max-width: 100%;
+
+}
+
+img.left{
+float: left;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+
+img.right{
+float: right;
+margin-left: 20px;
+margin-bottom: 20px;
+}
+
+a:link {
+    color: #5d6f97;
+    text-decoration: none;
+
+}
+
+a:visited {
+    color: #177d89;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #fac8e1;
+}
+
+a:active {
+    color: #88dfff;
+
+}
